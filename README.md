@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](me.gif)
+
 <!--
 **Jacq0/Jacq0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
