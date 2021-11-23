@@ -1,6 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 ![](me.gif)
+
+(I'm a little busy as you can see, but feel free to have a look around!)
 
 <!--
 **Jacq0/Jacq0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
